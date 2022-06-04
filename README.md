@@ -1,6 +1,18 @@
-# Information about FIM
+# Information about FIM 
 
-This is my first project, I hope I'm doing this correctly. I recently found interest in FIM and wanted to get to work. Days of research and failure I finally managed to create a FIM that let's me know whenever one of my files is changed/accessed. Below is a chart explaining what I created, how it work, and what it will output.
+This is my first project, I hope I'm doing this correctly. I recently found interest in FIM and wanted to get to work. Days of research and failure I finally managed to create a FIM that let's me know whenever one of my files is changed/accessed. Below is a chart explaining what I created, how it works, and what it will output.
+
+
+## Requirements  
+It's a relatively easy project that doesn't require to download anything, all you need is: 
+
+*Windows PowerShell ISE
+
+and that's it. :)
+
+
+
+
 
 ## Screenshot ##
 
