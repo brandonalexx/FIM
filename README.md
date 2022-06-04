@@ -8,7 +8,7 @@ I plan on explaining/going more in depth about every step of the process at a la
 ## Requirements  
 It's a relatively easy project that doesn't require to download anything, all you need is: 
 
-*Windows PowerShell ISE
+*Windows PowerShell ISE*
 
 and that's it. :)
 
