@@ -1,8 +1,10 @@
 # Information about FIM 
 
-This is my first project, I hope I'm doing this correctly. I recently found interest in FIM and wanted to get to work. Days of research and failure I finally managed to create a FIM that let's me know whenever one of my files is changed/accessed. Below is a chart explaining what I created, how it works, and what it will output.;
+First Project
 
-I plan on explaining/going more in depth about every step of the process at a later time...
+I recently found interest in FIM and wanted to get to work. Days of research and failure I finally managed to create a FIM that let's me know whenever one of my files is changed/accessed by anyone that's not authorzied. Below is a chart explaining what I created, how it works, and what it will output;
+
+!!! I plan on explaining/going more in depth about every step of the process at a later time... !!!
 
 
 ## Requirements  
