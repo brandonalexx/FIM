@@ -10,7 +10,6 @@ It's a relatively easy project that doesn't require to download anything, all yo
 
 *Windows PowerShell ISE*
 
-and that's it. :)
 
 
 
